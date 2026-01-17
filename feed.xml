@@ -5,6 +5,15 @@
     <link>https://blackity.store/blogs/news</link>
     <description>Latest news and updates from Blackity Store</description>
     <item>
+      <title>title</title>
+      <link>https://blackity.store/blogs/news/title</link>
+      <guid isPermaLink="true">https://blackity.store/blogs/news/title</guid>
+      <description>
+      &lt;p&gt;contents&lt;img src="https://cdn.shopify.com/s/files/1/0699/3903/6225/files/image-prompt.png?v=1768642037" alt="image prompt"&gt;&lt;/p&gt;
+    </description>
+      <pubDate>Sat, 17 Jan 2026 16:27:32 +0700</pubDate>
+    </item>
+    <item>
       <title>Happy Fathers Day</title>
       <link>https://blackity.store/blogs/news/happy-fathers-day</link>
       <guid isPermaLink="true">https://blackity.store/blogs/news/happy-fathers-day</guid>
